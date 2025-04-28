@@ -11,7 +11,7 @@ This is a **WordPress**-based e-commerce website for **LesHealenore**, a store s
 ![Homepage](leshealenore%20homepage.PNG)
 
 ### Product Page Screenshot:
-![Product Page](leshealenore%20products%20page.PNG)
+![Product Page](yeshealenore%20products%20page.PNG)
 
 ## Technologies Used:
 - **WordPress** for content management and store setup
